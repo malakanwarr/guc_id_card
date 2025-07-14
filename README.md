@@ -1,6 +1,9 @@
 # GUC ID Card
 
 This is my **first Flutter project** — a simple mobile app that visually displays a digital version of my university ID.
+> 🚀 **Built with:** Dart & Flutter  
+> *(Note: Due to Flutter's native iOS and Android files, GitHub language stats may show other languages like C++ or CMake, but the main app code is written in Dart.)*
+
 
 ## 📱 App Overview
 
