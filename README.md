@@ -31,7 +31,8 @@ Everything is laid out using Flutter's powerful `Column`, `Row`, and `Card` widg
 
 ## 📸 Screenshots
 
-_(You can add screenshots here later by dragging image files into this README if you'd like)_
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-15 at 00 15 52" src="https://github.com/user-attachments/assets/7b3aad00-2610-4519-93e7-0db8a586742c" />
+
 
 ## 📦 How to Run
 
