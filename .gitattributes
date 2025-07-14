@@ -1,3 +1,27 @@
+# Ignore native iOS build and source files for language stats
+ios/**/* linguist-vendored
+ios/**/*.cpp linguist-vendored
+ios/**/*.c linguist-vendored
+ios/**/*.h linguist-vendored
+ios/**/*.mm linguist-vendored
+ios/**/*.m linguist-vendored
+ios/**/*.swift linguist-vendored
+ios/**/*.cmake linguist-vendored
+ios/**/*.plist linguist-vendored
+
+# Ignore Android native and build files
+android/**/* linguist-vendored
+android/**/*.gradle linguist-vendored
+android/**/*.java linguist-vendored
+android/**/*.kt linguist-vendored
+android/**/*.xml linguist-vendored
+
+# Ignore build and intermediate folders
+build/** linguist-vendored
+.dart_tool/** linguist-vendored
+
+# Ignore CocoaPods dependencies
+ios/Pods/** linguist-vendored
 # Tell GitHub to ignore platform-specific code when detecting languages
 ios/* linguist-vendored
 android/* linguist-vendored
